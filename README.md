@@ -19,14 +19,14 @@ We're going with a company that's:
 
 ## Twitter Channels to use (WIP)
 
-https://twitter.com/Recode
-https://twitter.com/TechCrunch
-https://twitter.com/VentureBeat
-https://twitter.com/GVteam
-https://twitter.com/Accel
-https://twitter.com/FastCompany
-https://twitter.com/Entrepreneur
-https://twitter.com/Inc
-https://twitter.com/SocialWiz
-https://twitter.com/cactussky
-https://twitter.com/FastCoDesign
+* https://twitter.com/Recode
+* https://twitter.com/TechCrunch
+* https://twitter.com/VentureBeat
+* https://twitter.com/GVteam
+* https://twitter.com/Accel
+* https://twitter.com/FastCompany
+* https://twitter.com/Entrepreneur
+* https://twitter.com/Inc
+* https://twitter.com/SocialWiz
+* https://twitter.com/cactussky
+* https://twitter.com/FastCoDesign
