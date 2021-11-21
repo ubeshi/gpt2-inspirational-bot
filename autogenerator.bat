@@ -10,7 +10,7 @@ ECHO ============================
 ECHO ============================
 ECHO Python generate_tweets.py
 ECHO ============================
-python C:\Users\DevUser\Documents\GitHub\gpt2-inspirational-bot\generate_tweets.py
+python G:\GitHub\gpt2-inspirational-bot\generate_tweets.py
 
 ECHO ============================
 ECHO End
